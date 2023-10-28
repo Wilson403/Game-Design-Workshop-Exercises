@@ -7,10 +7,14 @@ This book helps you to create the digital games you love to play, using a non-te
 Award-winning author Tracy Fullerton demystifies the creative process with clear and accessible guidance on the formal, dramatic, and dynamic systems of game design. Using examples of classic and popular games, illustrations of design techniques, and refined exercises to strengthen your understanding of how game systems function, the book gives you the skills and tools necessary to create a compelling and engaging game.
 
 
+----
+
 
 # Book Link
 [Game Design Workshop](https://www.gamedesignworkshop.com/)
 
+
+----
 
 
 # The Purpose of this Project
@@ -18,6 +22,15 @@ Award-winning author Tracy Fullerton demystifies the creative process with clear
 
 ​	If you are genuinely interested in forking and submitting exercises, simply create your own exercise folder. For example, my exercise book is called 'Wilson's Exercise Book
 
+
+----
+
+
+# Suggested Submission Guidelines
+Use Markdown files to record, with the file title indicating the exercise number for easy reference. Of course, you can use other file formats if you prefer
+
+
+----
 
 
 # Book Cover
