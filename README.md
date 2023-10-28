@@ -1,3 +1,5 @@
+[[中文说明]](https://github.com/Wilson403/Game-Design-Workshop-Exercises/blob/main/README_Ch.md)
+
 # Book Introduction
 
 This book helps you to create the digital games you love to play, using a non-technical approach to game design without the need for programming or artistic experience.
